@@ -1,5 +1,3 @@
-os
-pathlib
 streamlit
-dotenv
 groq
+python-dotenv
